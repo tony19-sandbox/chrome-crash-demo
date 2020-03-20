@@ -2,7 +2,7 @@
 
  * Not sure exactly which library is causing the crash, but it occurs immediately after interacting with `vue-gallery`. I cannot reproduce it without *all* four libraries in the project together. This code represents a [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example).
 
- * I've not been able to reproduce the bug in Canary 81 or Firefox 74.
+ * I've not been able to reproduce the bug in Chrome Canary 81, Firefox 74, or Safari 13.
 
  * Also reproduces in Incognito Mode without any extensions enabled
 
