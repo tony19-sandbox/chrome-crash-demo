@@ -6,6 +6,8 @@
 
  * Also reproduces in Incognito Mode without any extensions enabled
 
+![screencast](screencast_lowres.gif)
+
 ## Steps to reproduce
 
 1. Install project:
