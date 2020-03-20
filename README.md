@@ -1,6 +1,6 @@
 > Demonstrates a Chrome crash when using [`vue`](https://github.com/vuejs/vue), [`v-gallery`](https://github.com/TerryZ/v-gallery), [`vue-filepond`](https://github.com/pqina/vue-filepond), and [`vue-router`](https://github.com/vuejs/vue-router) together
 
- * Not sure exactly which library is causing the crash, but it occurs immediately after interacting with `vue-gallery`.
+ * Not sure exactly which library is causing the crash, but it occurs immediately after interacting with `vue-gallery`. I cannot reproduce it without *all* four libraries in the project together. This code represents a [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example).
 
  * I've not been able to reproduce the bug in Canary 81 or Firefox 74.
 
