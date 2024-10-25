@@ -11,7 +11,7 @@
     "core-js": "^3.6.4",
     "filepond": "^4.13.0",
     "v-gallery": "^1.2.4",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-filepond": "^6.0.2",
     "vue-router": "^3.1.6",
     "vuetify": "^2.2.18"
